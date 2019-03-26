@@ -17,7 +17,7 @@
     "dotenv": "*",
     "express": "4.15.2",
     "express-session": "1.15.2",
-    "morgan": "1.8.1",
+    "morgan": "1.9.1",
     "node-datetime": "1.0",
     "socket.io":"*",
     "passport": "~0.3.2",
